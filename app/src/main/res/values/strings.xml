@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shimmer Effects</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="bottom_app_bar">Bottom app bar</string>
+    <string name="dialog_contain">This area typically contains the %1$s text which presents the details regarding the %2$s.</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
